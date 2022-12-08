@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-color: black;
+  color: orange;
+  font-size: 18px;
+}
+
+img {
+  width: 600px;
+  height: 400px;
+
+  margin: auto;
+  display: block;
+}
+
+p,
+li {
+  color: white;
+}
